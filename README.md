@@ -3,7 +3,10 @@
 
 ## <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/raw/master/Assets/Hi.gif" style="width:30px;height:30px"> Hi there, I'm Grace Castañeda (graciicodes)💜 🇲🇽 💻
 
-**👋 Self-taught developer on a mission to reinvent myself through code. No shortcuts. Just code, coffee, and comeback energy.** 
+**👋 Self-taught developer rebuilding life through code.
+Started at 46. Still shipping commits.
+Coffee ☕ Code 💻 Comeback 🚀
+#100Devs** 
 
 **Sr. Ops Manager | Tech Integration |  Just code & My coffee! #100Devs student a full-stack developer in the making 💜**
 

@@ -1,7 +1,7 @@
 
 <img width="1584" height="396" alt="Grace Ops Linked in Banner" src="https://github.com/user-attachments/assets/48cdcaa6-2dde-45a9-86e0-295ba29f2fd3" />
 
-## <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/raw/master/Assets/Hi.gif" style="width:30px;height:30px"> Hi there, I'm Grace Castañeda (over45Codes)💜 🇲🇽 💻
+## <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/raw/master/Assets/Hi.gif" style="width:30px;height:30px"> Hi there, I'm Grace Castañeda (graciicodes)💜 🇲🇽 💻
 
 **👋 Self-taught developer on a mission to reinvent myself through code. No shortcuts. Just code, coffee, and comeback energy.** 
 
@@ -56,14 +56,14 @@ Sales & Marketing Strategy · Tech Enthusiast
 ********
 📫 How to reach me... 
 - Let's connect: [Linkedin](https://www.linkedin.com/in/castanedagrace/)
-- Email: over45codes@gmail.com
-- Posting: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40over45Codes)]([(https://x.com/over45Codes)](https://x.com/over45Codes)(https://x.com/Over45Codes))
+- Email: graciicodes@gmail.com
+- [![TikTok](https://img.shields.io/badge/TikTok-@graciicodes-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@graciicodes)
 
 
 
 <br><br>
 <p align="center">
-© 2025 over45Codes 💜 🇲🇽 💻
+© 2025 graciicodes 💜 🇲🇽 💻
   <br><br>
   <br><br>
 <!--

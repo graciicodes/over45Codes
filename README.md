@@ -1,7 +1,8 @@
+**RETIRED 2025 README FILE - NOT IN USE**
 
-<img width="1584" height="396" alt="Grace Ops Linked in Banner" src="https://github.com/user-attachments/assets/48cdcaa6-2dde-45a9-86e0-295ba29f2fd3" />
 
-## <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/raw/master/Assets/Hi.gif" style="width:30px;height:30px"> Hi there, I'm Grace Castañeda (graciicodes)💜 🇲🇽 💻
+
+## <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/raw/master/Assets/Hi.gif" style="width:30px;height:30px"> Hi there, I'm Grace Castañeda ()💜 🇲🇽 💻
 
 **👋 Self-taught developer rebuilding life through code.
 Started at 46. Still shipping commits.
@@ -59,14 +60,13 @@ Sales & Marketing Strategy · Tech Enthusiast
 ********
 📫 How to reach me... 
 - Let's connect: [Linkedin](https://www.linkedin.com/in/castanedagrace/)
-- Email: graciicodes@gmail.com
-- [![TikTok](https://img.shields.io/badge/TikTok-@graciicodes-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@graciicodes)
+
 
 
 
 <br><br>
 <p align="center">
-© 2025 graciicodes 💜 🇲🇽 💻
+© 2025 💜 🇲🇽 💻
   <br><br>
   <br><br>
 <!--
